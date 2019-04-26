@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px 12px;
+}
+
+button {
+  margin: 0 4px;
+}
+
+.member-name {
+  margin: 0 8px;
+}
+
+.child-container {
+  display: flex;
+  justify-content: center;
+}
